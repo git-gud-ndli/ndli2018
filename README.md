@@ -13,4 +13,4 @@ docker-compose run api npm run migrate
 
 ```sh
 npm i && npm run serve
-``
+```
