@@ -4,3 +4,6 @@
 [submodule "API"]
 	path = API
 	url = git@github.com:git-gud-ndli/front-end.git
+[submodule "DEPLOYMENT"]
+	path = DEPLOYMENT
+	url = git@github.com:git-gud-ndli/deployment.git
